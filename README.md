@@ -5,6 +5,7 @@ We are hiring Data Engineers in USA
 **Location:** USA - Remote
 **Job Type:** Contract Position
 
+
 ### About the Role
 We are looking for a talented Data Engineer to join our team in USA.
 
@@ -26,6 +27,8 @@ We accept candidates on:
 - STEM OPT
 - OPT EAD
 - CPT
+- Rate: 50$ on C2C
+- 35$ on W2
 
 ### How to Apply
 Send your resume to: bhargavia79970@gmail.com
